@@ -48,4 +48,8 @@ images for the cards and also instructions on how to utilize the app efficiently
 
 ### to RUN :
 
-- Open the 
+- Open the `Target_Models_new.unitypackage` file using unity launcher.
+- Install the Vuforia SDK toolkit into the project file.
+- Hit the run button.
+- Click the `help` button and download Target Images.
+- Click the `AR Camera` button and place the downloaded target image infront of the camera. and VOILA🎊 The augmented model appears on the screen.

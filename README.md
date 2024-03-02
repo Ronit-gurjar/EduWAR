@@ -1,9 +1,9 @@
 # EduWAR
-A unity project showcasing use of Augmented reality in Education.
+A Unity project showcasing use of Augmented reality in Education.
 <hr>
 
 ## Introduction
-This project was made as a Minor project in my B.tech 3rd year.
+This project was made as a Minor project in my B.tech 3rd year. Checkout [Documentation](https://github.com/Ronit-gurjar/EduWAR/blob/main/Documentation%20(EduWAR%20-%20RONIT).pdf) for more details.
 
 - Technologies :- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -36,4 +36,16 @@ system, in case of wrong placements or combinations of cards the system will thr
 with explanation so that the student can understand the next steps, hence learning a 
 Complex subject in a fun way.
 The App consists of a ‘Help’ option which consists of a link for the target 
-images for the cards and also instructions on how to utilize the app efficiently. 
+images for the cards and also instructions on how to utilize the app efficiently.
+
+## How to run the project
+ The project can be ran using Unity launcher version 19-20.
+ 
+### Prerequisites : 
+- Unity Launcher
+- Vuforia engine sdk API key & license
+- Target Images
+
+### to RUN :
+
+- Open the 
